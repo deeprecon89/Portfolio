@@ -1,7 +1,6 @@
 # Mon Portfolio :
 # 👋 Bonjour, je suis Olivier.V (N1troz)
-
-En reconversion : "From construction business manager to ethical hacker"
+### En reconversion : "From construction business manager to ethical hacker"
 
 Certification en cours :
 Formation cyberini > certification RNCP M2i ***Réaliser des tests d'intrusion***
