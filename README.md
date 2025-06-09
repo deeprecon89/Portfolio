@@ -20,9 +20,9 @@ En reconversion : "From construction business manager to ethical hacker"
 ## 👨‍💻 Projets de Développement & cybersec
 
 ### 🐍 Python et shell > pour la Cyberséc
-- Scanneur de **Ports réseaux**
+- Scanneur de [**Ports réseaux**](https://github.com/deeprecon89/Cybersec_tools/blob/43ef3e428d922656349eb9166e7e76f2d59d742e/Mon_scanner_ports_reseaux)
 - Scanneur automatique [**Pentest web (reco + enum)**](https://github.com/deeprecon89/Pentest_tools/blob/ad64706b439997b4b41b5392cf77595447b40430/Tool_01_Scan)
-- Casseur de **mots de passe ZIP**
+- Casseur de [**mots de passe ZIP**](https://github.com/deeprecon89/Cybersec_tools/blob/88f26eb56875432481770fe67228a59d72cb4d55/Mon_scanner_ports_reseaux)
 
 ### 🔐Autres projets cybersec 
 - [**Calculateur CVSS V4 En Français**](https://github.com/deeprecon89/calculateur-cvss-v4.git)
