@@ -34,8 +34,8 @@ En reconversion : "From construction business manager to ethical hacker"
 
 ## 💼 Projets Professionnels
 
-### 📚 [Le Blog du Hacker]
-**🚧Blog pédagogique sur la cybersécurité : actus, conseils, ressources.**
+### 📚 [La Tête dans le Shell]
+**🚧 en cours de création : Blog pédagogique sur ma compréhension de la cybersécurité au sens large : actus, conseils, ressources.**
 
 ---
 
@@ -44,7 +44,7 @@ En reconversion : "From construction business manager to ethical hacker"
 J’ai conçu une documentation GitBook sur l'ensemble des éléments utiles à mon apprentissage, c'est mon hub pour :
 - Organiser mes notes techniques (Web, Réseau, Linux…)
 - Centraliser mes ressources de formation (certifications, labs, CTFs)
-- Partager mes write-ups et scripts
+- Partager mes write-ups
 - Documenter mon évolution vers des certifications
 
 🔗 **[Accéder au GitBook ici](https://n1troz-labs.gitbook.io/n1troz-labs)**
