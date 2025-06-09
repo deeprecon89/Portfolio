@@ -24,7 +24,7 @@ En reconversion : "From construction business manager to ethical hacker"
 - Scanneur automatique [**Pentest web (reco + enum)**](https://github.com/deeprecon89/Pentest_tools/blob/ad64706b439997b4b41b5392cf77595447b40430/Tool_01_Scan)
 - Casseur de **mots de passe ZIP**
 
-### Autres projets cybersec 
+### 🔐Autres projets cybersec 
 - [**Calculateur CVSS V4 En Français**](https://github.com/deeprecon89/calculateur-cvss-v4.git)
 
 ### 🌐 Full Stack Web (PHP, JS, HTML, CSS, SQL)
