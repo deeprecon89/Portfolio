@@ -37,7 +37,6 @@ Certification à venir :
 
 ### 🌐 Full Stack Web (PHP, JS, HTML, CSS, SQL)
 - **Création d'un Site vitrine + BLog** + environnement cloud virtuel
-- **Création d'un Site E-commerce Vulnérable**
 
 
 ## 💼 Projets Professionnels
