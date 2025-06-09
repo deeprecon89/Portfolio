@@ -24,16 +24,11 @@ En reconversion : "From construction business manager to ethical hacker"
 - Casseur de **mots de passe ZIP**
 
 ### Autres projets cybersec 
-- **Calculateur CVSS V4 En Français**(https://github.com/deeprecon89/calculateur-cvss-v4.git)
+- [**Calculateur CVSS V4 En Français**](https://github.com/deeprecon89/calculateur-cvss-v4.git)
 
 ### 🌐 Full Stack Web (PHP, JS, HTML, CSS, SQL)
 - **Création d'un Site vitrine + BLog** + environnement cloud virtuel
 - **Création d'un Site E-commerce Vulnérable**
-  
-
-### 💻 VB.NET / C#
-  - Projet à venir :
-  -     Logiciel de **désinfection PC**
 
 
 ## 💼 Projets Professionnels
