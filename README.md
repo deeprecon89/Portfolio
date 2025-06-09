@@ -7,12 +7,13 @@ En reconversion : "From construction business manager to ethical hacker"
 ## 🧠 CTFs / Récompenses / Portfolio
 
 - 🎯 **CTF**
-  - Root-me : 🛫 Takeoff in progress
-  - Cyberini :🛫 Takeoff in progress
-  - Tryhackme :🛫 Takeoff in progress
-  - HackTheBox :🛫 Takeoff in progress
+  - ***Root-me*** : 🛫 Takeoff in progress
+  - ***Cyberini*** :🛫 Takeoff in progress
+  - ***Tryhackme*** :🛫 Takeoff in progress
+  - ***HackTheBox*** :🛫 Takeoff in progress
+    
 - 💡 **Challenges de programmation**
-  - CodinGame : 🛫 Takeoff in progress
+  - ***CodinGame*** : 🛫 Takeoff in progress
 
 ---
 
@@ -20,7 +21,7 @@ En reconversion : "From construction business manager to ethical hacker"
 
 ### 🐍 Python et shell > pour la Cyberséc
 - Scanneur de **Ports réseaux**
-- Scanneur automatique **Pentest web (reco + enum)**
+- Scanneur automatique [**Pentest web (reco + enum)**](https://github.com/deeprecon89/Pentest_tools/blob/ad64706b439997b4b41b5392cf77595447b40430/Tool_01_Scan)
 - Casseur de **mots de passe ZIP**
 
 ### Autres projets cybersec 
