@@ -3,8 +3,8 @@
 ### En reconversion : "From construction business manager to ethical hacker"
 
 ### Certification en cours :
-Formation cyberini > 
-- certification RNCP M2i ***Réaliser des tests d'intrusion***
+Formation cyberini > certification RNCP M2i ***Réaliser des tests d'intrusion***
+
 Certification à venir :
 - PT01 > Tryhackme
 - Ejpt > INE security
