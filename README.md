@@ -7,9 +7,13 @@ Certification en cours :
 Formation cyberini > certification RNCP M2i ***Réaliser des tests d'intrusion***
 
 A venir :
+
 PT01 > Tryhackme
+
 Ejpt > INE security
+
 OSCP > Offsec
+
 ---
 
 ## 🧠 CTFs / Récompenses / Portfolio
