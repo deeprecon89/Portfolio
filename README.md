@@ -1,7 +1,7 @@
 # Mon Portfolio :
 # 👋 Bonjour, je suis Olivier.V (N1troz)
 
-En reconversion : From sales to Ethical Hacker
+En reconversion : "From construction business manager to ethical hacker"
 ---
 
 ## 🧠 CTFs / Récompenses / Portfolio
@@ -19,9 +19,9 @@ En reconversion : From sales to Ethical Hacker
 ## 👨‍💻 Projets de Développement & cybersec
 
 ### 🐍 Python et shell > pour la Cyberséc
-- Scanneur de **vulnérabilités web**
+- Scanneur de **Ports réseaux**
 - Scanneur automatique **Pentest web (reco + enum)**
-- Casseur de **mots de passe**
+- Casseur de **mots de passe ZIP**
 
 ### Autres projets cybersec 
 - **Calculateur CVSS V4 En Français**(https://github.com/deeprecon89/calculateur-cvss-v4.git)
@@ -61,10 +61,23 @@ J’ai conçu une documentation GitBook sur l'ensemble des éléments utiles à 
 ---
 
 ## 😄 Présentation
-# 🚀 From Sales to Ethical Hacker
+# 🚀 "From construction business manager/salesperson to ethical hacker"
 Ancien militaire, puis chargé d’affaires dans le BTP pendant 15 ans, j’ai décidé de changer de cap.
 🎯 Aujourd’hui, je me reconvertis en **Pentester** : par passion pour la tech, l’état d’esprit hacker et l’envie de comprendre — et sécuriser — un monde de plus en plus connecté.
 🔍 Curieux, autodidacte, animé par l'apprentissage continu, je construis désormais ma carrière autour de la **cybersécurité offensive**.
+## 🛠️ Side-projects tech (pré-reconversion)
+Avant de faire le saut vers la cybersécurité, j’ai mené plusieurs projets tech par passion :
+- **2018** – Site e-commerce sous **PrestaShop**  
+  🔹 Thématique : Diffuseurs d’huiles essentielles (+100 références)  
+  🔹 Gestion de l’hébergement sur **OVH**
+
+- **2019** – Site e-commerce sous **WooCommerce**  
+  🔹 Thématique : Compléments alimentaires santé  
+  🔹 Gestion de l’hébergement sur **IONOS**
+
+- **2023** – Site vitrine Aiki design **no-code sous Wix** 
+  🔹 Thématique : Design d’espace / décoration intérieure
+  🔹 Gestion de l’hébergement sur **OVH**
 
 ---
 
